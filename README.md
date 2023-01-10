@@ -7,18 +7,18 @@ With Svija, building a website is **incredibly fast**, and you can create amazin
 
 You'll love **Svija** too:
 
-• if you know Illustrator, you're already an expert
-• build websites in 80-90% less time
-• the techniques of professional design work natively, in the page
-• no debugging or verification necessary
-• compelling animation with no programming
+- if you know Illustrator, you're already an expert
+- build websites in 80-90% less time
+- the techniques of professional design work natively, in the page
+- no debugging or verification necessary
+- compelling animation with no programming
 
 Svija sites are **real websites**:
 
-• Google-indexable
-• accessible
-• selectable text
-• linked images
+- Google-indexable
+- accessible
+- selectable text
+- linked images
 
 **"The workflow behind this is super innovative — from your SVG program directly to the web… for a new idea, damn!"**  
 *—Geena T.*
