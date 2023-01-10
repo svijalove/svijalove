@@ -1,16 +1,24 @@
-### Hi there 👋
+Svija is a radical new way to build websites, using the power of Adobe Illustrator to generate precision SVG pages.
 
-<!--
-**svijalove/svijalove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With Svija, building a website is incredibly fast, and you can create amazing content that would be impossible with other tools.
 
-Here are some ideas to get you started:
+"I really, really, really, really, really, really, really, really LOVE THIS. Thank you for making this!"  
+—A Space Cowboi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll love Svija too:
+
+• if you know Illustrator, you're already an expert
+• build websites in 80-90% less time
+• the techniques of professional design work natively, in the page
+• no debugging or verification necessary
+• compelling animation with no programming
+
+Svija sites are real websites:
+
+• Google-indexable
+• accessible
+• selectable text
+• linked images
+
+"The workflow behind this is super innovative — from your SVG program directly to the web… for a new idea, damn!"  
+—Geena T.
