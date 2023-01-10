@@ -15,7 +15,7 @@ You'll love **Svija** too:
 
 Svija sites are **real websites**:
 
-- Google-indexable
+- Google-indexable
 - accessible
 - selectable text
 - linked images
