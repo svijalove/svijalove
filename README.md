@@ -20,5 +20,5 @@ Svija sites are **real websites**:
 • selectable text
 • linked images
 
-**"The workflow behind this is super innovative — from your SVG program directly to the web… for a new idea, damn!"  **
+**"The workflow behind this is super innovative — from your SVG program directly to the web… for a new idea, damn!"**  
 *—Geena T.*
